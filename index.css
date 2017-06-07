@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.center{
+	margin: 0 auto;
+	width:1200px;
+}
+.center .center-left{
+	width: 700px;
+	float: left;
+	background-color: pink;
+}
+.center .center-right{
+	width: 400px;
+	position: fixed;
+	margin-left: 736px;
+}
